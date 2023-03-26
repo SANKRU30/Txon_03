@@ -1,0 +1,21 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.table-striped{
+    border:2px solid black;
+}
+.form-label{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#title{
+    
+    background-color:rgb(248, 229, 231);
+}
+#description{
+    background-color:rgb(248, 229, 231);
+
+}
